@@ -26,8 +26,7 @@ The final model’s performance is evaluated using **Mean Absolute Error (MAE)**
 
 This repo contains:
 
-- A Jupyter notebook (or Python script) with the full implementation
-- Dataset files used for training/testing
+- A notebook with the full implementation
 - Visualizations and evaluation metrics
 - Instructions on how to run the code
 
